@@ -4,7 +4,7 @@
 int main (){
     float vel, vel_limit, vel_20;
 
-    printf ("Insira a velocidade que voce passou pela rodovia (limite de 80km/h): ");
+    printf ("Insira a velocidade que voce passou pela rodovia: ");
     scanf ("%f", &vel);
 
     printf ("Insira a velocidade maxima da rodovia: ");
